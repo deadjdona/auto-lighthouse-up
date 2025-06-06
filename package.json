@@ -52,7 +52,7 @@
     "husky": "^8.0.1",
     "jasmine": "4.3.0",
     "nyc": "^15.1.0",
-    "release-it": "^15.3.0"
+    "release-it": "^19.0.3"
   },
   "release-it": {
     "github": {
