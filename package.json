@@ -40,7 +40,7 @@
     "cli-spinner": "^0.2.10",
     "commander": "^14.0.0",
     "express": "^4.17.1",
-    "lighthouse": "^12.6.0",
+    "lighthouse": "^13.0.0",
     "open": "8.4.0",
     "serve-index": "^1.9.1",
     "simplecrawler": "^1.1.8"
