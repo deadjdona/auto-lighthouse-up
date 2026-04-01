@@ -8,6 +8,9 @@ jobs:
     name: Node CI
     runs-on: ${{ matrix.os }}
 
+    permissions:
+      contents: read
+
     strategy:
       matrix:
         node-version: [14.x, 16.x]
